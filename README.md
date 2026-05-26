@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Suresh+%F0%9F%91%8B;Java+%26+Full+Stack+Developer+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Suresh+%F0%9F%91%8B;+Full+Stack+Java+Developer+Student)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jaggampudi%20Suresh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20the%20Future%20with%20Code%20%26%20AI&descAlignY=55&descSize=18" width="100%"/>
 
