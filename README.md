@@ -21,7 +21,7 @@
 ```python
 class Suresh:
     name        = "Jaggampudi Suresh"
-    role        = "AI & Full Stack Developer Student"
+    role        = " Full Stack Java Developer Student"
     education   = "B.Tech CSE @ Sri Vasavi Engineering College"
     cgpa        = 9.32
     location    = "Andhra Pradesh, India 🇮🇳"
@@ -160,6 +160,5 @@ class Suresh:
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
