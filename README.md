@@ -1,20 +1,4 @@
-<div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Suresh+%F0%9F%91%8B;+Full+Stack+Java+Developer+Student)](https://git.io/typing-svg)
-
-
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-jaggampudi9/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Suresh-0x)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-
-<img src="https://komarev.com/ghpvc/?username=Suresh-0x&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views"/>
-
-</div>
-
----
 # Hi, I'm Suresh 👋
 
 Computer Science undergraduate (B.Tech, CSE) | Sri Vasavi Engineering College, Tadepalligudem
