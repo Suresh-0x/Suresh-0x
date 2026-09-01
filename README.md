@@ -1,69 +1,89 @@
-# Hi, I'm Suresh 👋
+div align="center"> <!-- Animated Typing Header -->
 
-Computer Science undergraduate (B.Tech, CSE) | Sri Vasavi Engineering College, Tadepalligudem
+Typing SVG
 
-I have a strong foundation in Data Structures and Algorithms, programming, and web development, and I've been building hands-on full stack projects. I'm a consistent competitive programmer on LeetCode and GeeksforGeeks, and I'm looking to apply what I've learned to real-world engineering problems.
+<!-- Social Badges -->
 
-📍 Tadepalligudem, Andhra Pradesh, India
-📧 sureshjaggampudi@gmail.com
+LinkedIn GitHub LeetCode
 
----
+<img src="https://komarev.com/ghpvc/?username=Suresh-0x&label=Profile+Views&color=00d9ff&style=flat-square" alt="Profile Views"/> </div>
+🧠 About Me
+python
+class Suresh:
+    name        = "Jaggampudi Suresh"
+    role        = "Full Stack Java Developer Student"
+    education   = "B.Tech CSE @ Sri Vasavi Engineering College"
+    cgpa        = 9.34
+    location    = "Andhra Pradesh, India 🇮🇳"
 
-## About Me
+    interests   = ["Full Stack Development", "Backend Systems", "Problem Solving"]
 
-- 🎓 B.Tech CSE, Sri Vasavi Engineering College (2024–2028), CGPA 9.34
-- 🧠 Interested in full stack development and backend systems
-- ☁️ AWS Certified Cloud Practitioner & Microsoft Certified: Azure AI Apps and Agents Developer Associate
-- 🏆 Solved 100+ DSA problems on LeetCode and GeeksforGeeks
-- ☕ Still figuring out the best coffee-to-code ratio
+    currently   = ["📚 Pursuing B.Tech in Computer Science",
+                   "💻 Building Full Stack Projects",
+                   "🏆 Competitive Coding on LeetCode & GeeksforGeeks"]
 
----
+    fun_fact    = "I debug with coffee ☕ and fix bugs with more coffee ☕☕"
+🛠️ Tech Stack & Tools
+<div align="center">
+💻 Languages
 
-## Tech Stack
+Show Image Show Image Show Image Show Image Show Image
 
-**Languages:** Java,JavaScript
+🌐 Web Technologies
 
-**Web:** HTML5, CSS3, React.js, Node.js, Express.js
+Show Image Show Image Show Image Show Image Show Image
 
-**Database:**  MySQL, MongoDB
+🗄️ Databases
 
-**Cloud & Tools:** AWS, Git, GitHub
+Show Image Show Image
 
-**DSA:** Arrays, Strings, Searching & Sorting, Maps, Sets, ArrayList, LinkedList, Priority Queues
+⚙️ Tools & Platforms
 
----
+Show Image Show Image Show Image Show Image Show Image
 
-## Projects
+</div>
+🚀 Featured Projects
+<div align="center">
+🔬 Project	📄 Description	🛠️ Tech Stack
+🛒 DailyMart — E-Commerce Backend API	Spring Boot REST API for a hyper-local grocery platform with JWT auth, role-based access, cart/wishlist, coupon engine, order tracking, and Razorpay payments	Java 17 Spring Boot MySQL JWT Razorpay
+📚 Research Publication Management Portal (Ongoing)	Full-stack MERN portal to digitize faculty research publication tracking with JWT-based role access for Faculty and Admin	MongoDB Express.js React.js Node.js
+🎓 Student Management System	Full-featured application to manage student records with CRUD operations, search, and reporting capabilities	Java JDBC MySQL OOP
+</div>
+📊 GitHub Statistics
+<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suresh-0x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suresh-0x&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9" /> <br/> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-0x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=6" /> </div>
+🏆 GitHub Trophies
+<div align="center">
 
-**🛒 DailyMart — E-Commerce Backend API**
-A Spring Boot REST API powering a hyper-local grocery and supermarket platform. Built with JWT authentication and role-based access (User/Admin/Seller), product and category management with Cloudinary image support, cart and wishlist, a coupon/discount engine, full order lifecycle tracking, and Razorpay payment integration with HMAC signature verification. Includes an admin dashboard with revenue and order analytics, Swagger API docs, and a test suite covering core flows.
-`Java 17` `Spring Boot 3.2` `MySQL` `JWT` `Razorpay` `Docker`
+trophy
 
-**Research Publication Management Portal** *(Ongoing)*
-A full-stack MERN portal to digitize faculty research publication tracking, replacing manual Excel-based records. Includes role-based access with JWT for Faculty and Admin, REST APIs built with Node.js/Express, and a React frontend with reusable components and hooks.
-`MongoDB` `Express.js` `React.js` `Node.js`
+</div>
+📈 Contribution Graph
+<div align="center">
 
-**Student Management System**
-A responsive web-based system to manage student records with full CRUD operations, built with JDBC (PreparedStatements) connecting to a MySQL database, with form validation and search.
-`Java` `JDBC` `MySQL` `HTML` `CSS` `JavaScript`
+Suresh's github activity graph
 
----
+</div>
+🏅 Certifications & Achievements
+<div align="center">
+🎖️ Certification	🏢 Issuer	🌟 Level
+☁️ Azure AI Apps and Agents Developer Associate	Microsoft	Certified (Aug 2026)
+☁️ AWS Cloud Practitioner	Amazon Web Services	Certified (Feb 2026)
+☕ Java Programming	NPTEL	Elite + Silver (86%)
+</div>
+🎓 Education
+<div align="center">
+┌─────────────────────────────────────────────────────────┐
+│  🏛️  Sri Vasavi Engineering College                     │
+│  📖  B.Tech in Computer Science & Engineering            │
+│  ⭐  CGPA: 9.34 / 10.0                                   │
+│  📍  Tadepalligudem, Andhra Pradesh, India               │
+└─────────────────────────────────────────────────────────┘
+</div>
+🤝 Let's Connect
+<div align="center"> <a href="https://www.linkedin.com/in/suresh-jaggampudi9/"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/Suresh-0x"> <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
-## Certifications
+<br/><br/>
 
-- Microsoft Certified: Azure AI Apps and Agents Developer Associate (Aug 2026)
-- AWS Certified Cloud Practitioner (Feb 2026)
-- NPTEL Java Certification — Elite + Silver (86%)
+"First, solve the problem. Then, write the code." — John Johnson
 
----
-
-## GitHub Stats
-
-![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suresh-0x&show_icons=true&theme=default&hide_border=true)
-
----
-
-## Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/suresh-jaggampudi9/) · [GitHub](https://github.com/Suresh-0x)
-
+</div>
