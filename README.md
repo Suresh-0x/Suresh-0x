@@ -13,7 +13,7 @@ I have a strong foundation in Data Structures and Algorithms, programming, and w
 ## About Me
 
 - 🎓 B.Tech CSE, Sri Vasavi Engineering College (2024–2028), CGPA 9.34
-- 🧠 Interested in full stack development and backend systems
+- 🧠 Interested in Java full stack development and backend systems
 - ☁️ AWS Certified Cloud Practitioner & Microsoft Certified: Azure AI Apps and Agents Developer Associate
 - 🏆 Solved 100+ DSA problems on LeetCode and GeeksforGeeks
 - ☕ Still figuring out the best coffee-to-code ratio
