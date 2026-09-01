@@ -15,150 +15,72 @@
 </div>
 
 ---
+# Hi, I'm Suresh 👋
 
-## 🧠 About Me
+Computer Science undergraduate (B.Tech, CSE) | Sri Vasavi Engineering College, Tadepalligudem
 
-```python
-class Suresh:
-    name        = "Jaggampudi Suresh"
-    role        = " Full Stack Java Developer Student"
-    education   = "B.Tech CSE @ Sri Vasavi Engineering College"
-    cgpa        = 9.32
-    location    = "Andhra Pradesh, India 🇮🇳"
+I have a strong foundation in Data Structures and Algorithms, programming, and web development, and I've been building hands-on full stack projects. I'm a consistent competitive programmer on LeetCode and GeeksforGeeks, and I'm looking to apply what I've learned to real-world engineering problems.
 
-    interests   = ["Artificial Intelligence", "Full Stack Development",
-                   "Machine Learning", "Problem Solving"]
-
-    currently   = ["📚 Pursuing B.Tech in Computer Science",
-                   "🤖 Exploring AI & Machine Learning",
-                   "💻 Building Full Stack Projects",
-                   "🏆 Competitive Coding on LeetCode"]
-
-    fun_fact    = "I debug with coffee ☕ and fix bugs with more coffee ☕☕"
-```
+📍 Tadepalligudem, Andhra Pradesh, India
+📧 sureshjaggampudi@gmail.com
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## About Me
 
-<div align="center">
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+- 🎓 B.Tech CSE, Sri Vasavi Engineering College (2024–2028), CGPA 9.34
+- 🧠 Interested in full stack development and backend systems
+- ☁️ AWS Certified Cloud Practitioner & Microsoft Certified: Azure AI Apps and Agents Developer Associate
+- 🏆 Solved 100+ DSA problems on LeetCode and GeeksforGeeks
+- ☕ Still figuring out the best coffee-to-code ratio
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-<div align="center">
+**Languages:** Java,JavaScript
 
-| 🔬 Project | 📄 Description | 🛠️ Tech Stack |
-|:---:|:---|:---:|
-| 📧 **Email Spam Detection System** | ML-powered system to classify emails as spam or ham using Natural Language Processing and classification algorithms | `Python` `Machine Learning` `NLP` `Scikit-learn` |
-| 🎓 **Student Management System** | Full-featured application to manage student records with CRUD operations, search, and reporting capabilities | `Java` `SQL` `JDBC` `OOP` |
-| 🎮 **Number Guessing Game** | Interactive desktop game built with Java AWT featuring GUI components, score tracking, and difficulty levels | `Java` `AWT` `GUI` `Swing` |
+**Web:** HTML5, CSS3, React.js, Node.js, Express.js
 
-</div>
+**Database:**  MySQL, MongoDB
 
----
+**Cloud & Tools:** AWS, Git, GitHub
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Suresh-0x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&ring_color=00D9FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Suresh-0x&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suresh-0x&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=6" />
-
-</div>
+**DSA:** Arrays, Strings, Searching & Sorting, Maps, Sets, ArrayList, LinkedList, Priority Queues
 
 ---
 
-## 🏆 GitHub Trophies
+## Projects
 
-<div align="center">
+**🛒 DailyMart — E-Commerce Backend API**
+A Spring Boot REST API powering a hyper-local grocery and supermarket platform. Built with JWT authentication and role-based access (User/Admin/Seller), product and category management with Cloudinary image support, cart and wishlist, a coupon/discount engine, full order lifecycle tracking, and Razorpay payment integration with HMAC signature verification. Includes an admin dashboard with revenue and order analytics, Swagger API docs, and a test suite covering core flows.
+`Java 17` `Spring Boot 3.2` `MySQL` `JWT` `Razorpay` `Docker`
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Suresh-0x&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+**Research Publication Management Portal** *(Ongoing)*
+A full-stack MERN portal to digitize faculty research publication tracking, replacing manual Excel-based records. Includes role-based access with JWT for Faculty and Admin, REST APIs built with Node.js/Express, and a React frontend with reusable components and hooks.
+`MongoDB` `Express.js` `React.js` `Node.js`
 
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Suresh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Suresh-0x&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+**Student Management System**
+A responsive web-based system to manage student records with full CRUD operations, built with JDBC (PreparedStatements) connecting to a MySQL database, with form validation and search.
+`Java` `JDBC` `MySQL` `HTML` `CSS` `JavaScript`
 
 ---
 
-## 🏅 Certifications & Achievements
+## Certifications
 
-<div align="center">
-
-| 🎖️ Certification | 🏢 Issuer | 🌟 Level |
-|:---:|:---:|:---:|
-| ☕ Java Programming | NPTEL | Elite + Silver |
-| ☁️ AWS Cloud Practitioner | Amazon Web Services | Certified |
-| 🟡 50 Days Badge | LeetCode | Achievement |
-
-</div>
+- Microsoft Certified: Azure AI Apps and Agents Developer Associate (Aug 2026)
+- AWS Certified Cloud Practitioner (Feb 2026)
+- NPTEL Java Certification — Elite + Silver (86%)
 
 ---
 
-## 🎓 Education
+## GitHub Stats
 
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────┐
-│  🏛️  Sri Vasavi Engineering College                     │
-│  📖  B.Tech in Computer Science & Engineering           │
-│  ⭐  CGPA: 9.32 / 10.0                                  │
-│  📍  Andhra Pradesh, India                              │
-└─────────────────────────────────────────────────────────┘
-```
-
-</div>
+![Suresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suresh-0x&show_icons=true&theme=default&hide_border=true)
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
-<div align="center">
+[LinkedIn](https://www.linkedin.com/in/suresh-jaggampudi9/) · [GitHub](https://github.com/Suresh-0x)
 
-<a href="https://www.linkedin.com/in/suresh-jaggampudi9/">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/Suresh-0x">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-
-</div>
